@@ -4,7 +4,7 @@ A repository for the data and code as part of a project using a theoretical mode
 Shirley B Wang et al. Mathematical and Computational Modeling of Suicide as a
 Complex Dynamical System. Sept. 2023. doi: 10.31234/osf.io/b29cs.
 
-![image](/Modeling%20Materials/plots/example_run.png)
+![image](/plots/example_run.png)
 
 The material from this repository can also be found in https://github.com/sophieams/Engels-CLS-Thesis.
 
